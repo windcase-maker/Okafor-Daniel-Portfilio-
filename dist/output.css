@@ -842,3 +842,7 @@
     }
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
